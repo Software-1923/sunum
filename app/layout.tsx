@@ -30,9 +30,9 @@ const spaceMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Kaminari",
+  title: "Türk Dili ve Edebiyatı: Edebi Akımlar Sunumu",
   generator: "Next.js",
-  applicationName: "Kaminari",
+  applicationName: "Sunum Uygulaması",
   referrer: "origin-when-cross-origin",
   keywords: [
     "Next.js",
@@ -43,8 +43,8 @@ export const metadata: Metadata = {
     "shadcn-ui",
   ],
   authors: [{ name: "Virgil", url: "https://obedd.vercel.app" }],
-  creator: "Virgil",
-  publisher: "Virgil",
+  creator: "Berkay",
+  publisher: "Berkay",
   alternates: {},
   formatDetection: {
     email: false,
@@ -56,7 +56,7 @@ export const metadata: Metadata = {
     title: "Kaminari",
     description: "Next.js, TailwindCSS and shadcn-ui Starter Template",
     url: "https://kaminari.vercel.app",
-    siteName: "Kaminari",
+    siteName: "Sunum",
     images: [
       {
         url: "https://kaminari.vercel.app/og.png",

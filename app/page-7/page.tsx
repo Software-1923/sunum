@@ -1,11 +1,10 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/link";
 import Wrapper from "@/components/wrapper";
 import { Button } from "@/components/ui/button";
 
-import pageA4 from "@/public/images/3.png";
+import pag from "@/public/images/7.jpg";
 
 export default function Home() {
   return (
@@ -16,13 +15,12 @@ export default function Home() {
             <span
               className={`-mt-14 inline-block text-[64px] font-bold text-black dark:text-white`}
             >
-              Realizm
+              Sürrealizm
             </span>
             <p className="pb-6 font-medium">
-            (19. Yüzyıl)
-            "Romantizmin aksine Realistler, 'Hadi bakalım gerçeklere dönelim' dedi. Gerçek dünyayı, günlük yaşamı olduğu gibi anlatmaya başladılar. Tıpkı bir film izler gibi her şey doğal ve sade."
+            (1920’ler)
+            "Sürrealistler ise 'Gerçek dünyaya bağlı kalmak zorunda değiliz' dedi. Bilinçaltı, rüyalar ve gerçeküstü dünya... Ne kadar çılgınca, değil mi? Onlar hayal gücünün sınırlarını zorladılar."
             </p>
-
           </div>
         </Wrapper>
       </section>
@@ -30,7 +28,7 @@ export default function Home() {
       {/* second half */}
 
       <section className="hidden lg:flex h-screen w-full flex-col justify-center items-center bg-[#ffefd6] p-9">
-        <Image src={pageA4} alt="Boy and girl playing with robot" />
+        <Image src={pag} alt="Boy and girl playing with robot" />
       </section>
     </section>
   );

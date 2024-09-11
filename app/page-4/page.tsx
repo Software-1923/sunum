@@ -1,11 +1,10 @@
 "use client";
 
 import Image from "next/image";
-import Link from "next/link";
 import Wrapper from "@/components/wrapper";
 import { Button } from "@/components/ui/button";
 
-import pageA4 from "@/public/images/3.png";
+import pageA4 from "@/public/images/4.jpg";
 
 export default function Home() {
   return (
@@ -16,13 +15,12 @@ export default function Home() {
             <span
               className={`-mt-14 inline-block text-[64px] font-bold text-black dark:text-white`}
             >
-              Realizm
+              Natüralizm
             </span>
             <p className="pb-6 font-medium">
-            (19. Yüzyıl)
-            "Romantizmin aksine Realistler, 'Hadi bakalım gerçeklere dönelim' dedi. Gerçek dünyayı, günlük yaşamı olduğu gibi anlatmaya başladılar. Tıpkı bir film izler gibi her şey doğal ve sade."
+              (19. Yüzyıl Sonları)
+            "Realizmin bir tık daha ilerisi: Natüralizm. Bu arkadaşlar sadece gerçeği değil, bilimin ışığında insan doğasını ve çevresel faktörleri incelemeye başladılar. Yani insanlar, yaşadıkları çevreyle şekilleniyor dediler."
             </p>
-
           </div>
         </Wrapper>
       </section>

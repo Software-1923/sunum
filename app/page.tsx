@@ -3,8 +3,9 @@
 import Image from "next/image";
 import Wrapper from "@/components/wrapper";
 import { Button } from "@/components/ui/button";
+import Link from "next/link"; // Link bileşenini import etmelisiniz
 
-import robot from "@/public/images/robot.png";
+import robot from "@/public/images/1.png";
 
 export default function Home() {
   return (
@@ -15,34 +16,27 @@ export default function Home() {
             <span
               className={`-mt-14 inline-block text-[64px] font-bold text-black dark:text-white`}
             >
-              01
+              Klasisizm
             </span>
             <p className="pb-6 font-medium">
-              Kami (short for Kaminari) is a modern Next.js, Tailwind CSS and
-              shadcn-ui boilerplate that includes all you need to build amazing
-              projects. No need to spend time on configuring the basic needs of
-              a project. I did that for you - Created by{" "}
+            (17. Yüzyıl)
+            "Başlangıç noktamız Klasisizm.
+            Bu akım, tıpkı eski Yunan ve Roma gibi akıl, düzen ve uyum seven bir yapıdaydı.
+            Yani her şey yerli yerinde olmalıydı. Klasisizmde duygular değil, mantık ön plandaydı.". - Yapımcı{" "}
               <a
-                href="https://obedd.vercel.app"
+                href="https://www.instagram.com/d_mr.softwarx/"
                 target="_blank"
                 rel="noreferrer"
                 className="pb-1 text-zinc-800 dark:text-zinc-100 underline font-medium"
               >
-                Virgil
+                Berkay
               </a>{" "}
             </p>
 
-            <div className="">
-              <Button size="xl" className="w-full font-bold" variant="brand">
-                <a
-                  href="https://github.com/lucky-chap/kaminari"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="pb-1 dark:text-zinc-800 text-zinc-100"
-                >
-                  Repo
-                </a>{" "}
-              </Button>
+            <div className="flex flex-col items-center">
+              
+              {/* Siyah kutucuk */}
+              <div className="mt-5 w-full h-1 bg-black"></div>
             </div>
           </div>
         </Wrapper>
