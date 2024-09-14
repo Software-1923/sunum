@@ -19,7 +19,7 @@ export default function Home() {
             </span>
             <p className="pb-6 font-medium">
             (19. Yüzyıl Sonları)
-            'Sembolistler ise dediler ki 'Gerçeği herkes zaten görüyor. Biz onu sembollerle, soyut imgelerle anlatalım.' İşte sembolizm böyle doğdu. Anlamlar gizli, her şey biraz daha mistik.'
+            &quot;Sembolistler ise dediler ki 'Gerçeği herkes zaten görüyor. Biz onu sembollerle, soyut imgelerle anlatalım.' İşte sembolizm böyle doğdu. Anlamlar gizli, her şey biraz daha mistik.&quot;
             </p>
           </div>
         </Wrapper>

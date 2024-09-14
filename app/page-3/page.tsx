@@ -20,7 +20,7 @@ export default function Home() {
             </span>
             <p className="pb-6 font-medium">
             (19. Yüzyıl)
-            'Romantizmin aksine Realistler, 'Hadi bakalım gerçeklere dönelim' dedi. Gerçek dünyayı, günlük yaşamı olduğu gibi anlatmaya başladılar. Tıpkı bir film izler gibi her şey doğal ve sade.'
+            &quot;Romantizmin aksine Realistler, 'Hadi bakalım gerçeklere dönelim' dedi. Gerçek dünyayı, günlük yaşamı olduğu gibi anlatmaya başladılar. Tıpkı bir film izler gibi her şey doğal ve sade.&quot;
             </p>
 
           </div>
