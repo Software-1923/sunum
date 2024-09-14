@@ -1,8 +1,9 @@
 import "./globals.css";
 import type { Metadata } from "next";
-import { Provider } from "@/components/provider";
 
+import { Provider } from "@/components/provider";
 import localFont from "next/font/local";
+import { Analytics } from "@vercel/analytics/react"; // Analytics'i import et
 
 const spaceMono = localFont({
   src: [
@@ -93,6 +94,7 @@ export default function RootLayout({
             {children}
           </main>
         </Provider>
+        <Analytics /> {/* Analytics bileşeni eklendi */}
       </body>
     </html>
   );
