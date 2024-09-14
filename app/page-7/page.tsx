@@ -19,7 +19,7 @@ export default function Home() {
             </span>
             <p className="pb-6 font-medium">
             (1920’ler)
-            Sürrealistler ise 'Gerçek dünyaya bağlı kalmak zorunda değiliz' dedi. Bilinçaltı, rüyalar ve gerçeküstü dünya... Ne kadar çılgınca, değil mi? Onlar hayal gücünün sınırlarını zorladılar.
+            &quot;Sürrealistler ise &apos;Gerçek dünyaya bağlı kalmak zorunda değiliz&apos; dedi. Bilinçaltı, rüyalar ve gerçeküstü dünya... Ne kadar çılgınca, değil mi? Onlar hayal gücünün sınırlarını zorladılar.&quot;
             </p>
           </div>
         </Wrapper>

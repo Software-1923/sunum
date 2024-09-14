@@ -20,9 +20,9 @@ export default function Home() {
             </span>
             <p className="pb-6 font-medium">
             (17. Yüzyıl)
-            Başlangıç noktamız Klasisizm.
+            &quot;Başlangıç noktamız Klasisizm.
             Bu akım, tıpkı eski Yunan ve Roma gibi akıl, düzen ve uyum seven bir yapıdaydı.
-            Yani her şey yerli yerinde olmalıydı. Klasisizmde duygular değil, mantık ön plandaydı. - Yapımcı{" "}
+            Yani her şey yerli yerinde olmalıydı. Klasisizmde duygular değil, mantık ön plandaydı.&quot; - Yapımcı{" "}
               <a
                 href="https://www.instagram.com/d_mr.softwarx/"
                 target="_blank"

@@ -20,7 +20,7 @@ export default function Home() {
             </span>
             <p className="pb-6 font-medium">
             (18. Yüzyıl Sonları)
-            Sonra birden bire Romantikler geldi! Onlar duyguları kucakladılar. Doğa, aşk, melankoli... Her şey onların ilham kaynağıydı. Romantizm, duygularını gizlemek istemeyenlerin akımıydı.
+            &quot;Sonra birden bire Romantikler geldi! Onlar duyguları kucakladılar. Doğa, aşk, melankoli... Her şey onların ilham kaynağıydı. Romantizm, duygularını gizlemek istemeyenlerin akımıydı.&quot;
             </p>
 
 
