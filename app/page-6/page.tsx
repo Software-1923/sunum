@@ -19,7 +19,7 @@ export default function Home() {
             </span>
             <p className="pb-6 font-medium">
             (20. Yüzyıl Başları)
-            "Ve tabii Fütüristler! Onlar teknolojiyi, hızı ve geleceği çok seviyorlardı. 'Eskiyi unutalım, gelecek bizim!' dediler. Makineleşme, modernlik onların en büyük ilham kaynağı oldu."
+            'Ve tabii Fütüristler! Onlar teknolojiyi, hızı ve geleceği çok seviyorlardı. 'Eskiyi unutalım, gelecek bizim!' dediler. Makineleşme, modernlik onların en büyük ilham kaynağı oldu.'
             </p>
           </div>
         </Wrapper>
