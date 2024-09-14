@@ -19,7 +19,7 @@ export default function Home() {
             </span>
             <p className="pb-6 font-medium">
               (19. Yüzyıl Sonları)
-            &quot;Realizmin bir tık daha ilerisi: Natüralizm. Bu arkadaşlar sadece gerçeği değil, bilimin ışığında insan doğasını ve çevresel faktörleri incelemeye başladılar. Yani insanlar, yaşadıkları çevreyle şekilleniyor dediler.&quot;
+            Realizmin bir tık daha ilerisi: Natüralizm. Bu arkadaşlar sadece gerçeği değil, bilimin ışığında insan doğasını ve çevresel faktörleri incelemeye başladılar. Yani insanlar, yaşadıkları çevreyle şekilleniyor dediler.
             </p>
           </div>
         </Wrapper>
